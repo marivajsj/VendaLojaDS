@@ -69,3 +69,8 @@ Google Colab [notebooks/analise_decisao.ipynb](https://colab.research.google.com
 
 📌 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhorias.
+
+👥 Time
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/7611162?v=4" width=115><br><sub>Marivaldo Júnior</sub>](https://github.com/marivajsj) |
+| :---: | 
