@@ -13,7 +13,7 @@ NumPy
 
 Matplotlib
 
-Google Colab
+Google Colab/Jupyter Notebook
 
 Excel/CSV como fonte de dados
 
